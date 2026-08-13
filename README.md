@@ -1,4 +1,4 @@
-# DynamixNetworks_Netflix_Analysis
+
 # Netflix Movies & TV Shows Data Analysis
 
 ## 📌 Objective
